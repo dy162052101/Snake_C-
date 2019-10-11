@@ -1,4 +1,9 @@
-# Snake_C-
-链表实现
+# 贪吃蛇 链表实现
+
 效果图：
-https://github.com/dy162052101/Snake_Link/blob/master/image/1.JPG
+
+![image](https://github.com/dy162052101/Snake_Link/blob/master/image/1.JPG)
+![image](https://github.com/dy162052101/Snake_Link/blob/master/image/2.JPG)
+![image](https://github.com/dy162052101/Snake_Link/blob/master/image/3.JPG)
+
+下载.exe文件即可运行。
