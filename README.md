@@ -6,4 +6,4 @@
 ![image](https://github.com/dy162052101/Snake_Link/blob/master/image/2.JPG)
 ![image](https://github.com/dy162052101/Snake_Link/blob/master/image/3.JPG)
 
-下载.exe文件即可运行。
+下载.exe文件(还需要Easy图形库头文件)即可运行。
